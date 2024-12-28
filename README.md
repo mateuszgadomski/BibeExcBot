@@ -19,6 +19,7 @@ BibeExcBot is a tool designed to help players avoid being detected as AFK, while
 ### Integrate with the Game
 1. Log in to the server panel using the built-in browser in the application to retrieve chat logs and enable notifications. **The application does not collect any data — it simply open the server website in the browser for direct login to their panel.**
 2. Launch the bot and log in to your character.
+3. Launch the GTA V game with altV and log in to the v-rp server.
 
 ## Features
 
