@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VibeExcBot", "VibeExcBot\VibeExcBot.csproj", "{59BB53C9-8AE3-46C6-8FE0-F4F8FD2FBAA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59BB53C9-8AE3-46C6-8FE0-F4F8FD2FBAA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BB53C9-8AE3-46C6-8FE0-F4F8FD2FBAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BB53C9-8AE3-46C6-8FE0-F4F8FD2FBAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BB53C9-8AE3-46C6-8FE0-F4F8FD2FBAA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87897AA7-4E22-43A3-920C-7AFD1239DAFC}
+	EndGlobalSection
+EndGlobal
