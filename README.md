@@ -5,7 +5,7 @@ BibeExcBot is a tool designed to help players avoid being detected as AFK, while
 ## Installation and Setup
 
 ### Download the Application
-- Download the latest version of BibeExcBot from the [Releases section](#).
+- Download the latest version of BibeExcBot from the [Releases section](https://github.com/mateuszgadomski/BibeExcBot/releases).
 
 ### Configure Settings
 1. Launch the application and go to the **Settings** tab.
